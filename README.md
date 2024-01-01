@@ -10,6 +10,7 @@
 
 ## Filters and Userscripts
 [uBlock Origin](https://ublockorigin.com/) and [Tampermonkey](https://www.tampermonkey.net/)
+Also i'm not explaining this to you just look it up
 
 - [Antipaywall](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt) and [Browse Websites w/o logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
   > Silly Antipaywall, read articles like a normal person
@@ -17,5 +18,9 @@
   > Makes IP Loggers not do that :3 
 - [FastForward](https://fastforward.team/)
   > Bypass link shorteners
+- [Buster](https://github.com/dessant/buster)
+  > *Should* autocomplete captcha
+- [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/releases/tag/v2.5.9)
+  > it's in name :3
 
   
