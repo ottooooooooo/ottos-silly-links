@@ -9,7 +9,7 @@
   > Compress folders with games inside and still be able to play them at full performance
 
 ## Filters and Userscripts
-> [uBlock Origin](https://ublockorigin.com/) and [Tampermonkey](https://www.tampermonkey.net/)
+[uBlock Origin](https://ublockorigin.com/) and [Tampermonkey](https://www.tampermonkey.net/)
 
 - [Antipaywall](https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt) and [Browse Websites w/o logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
   > Silly Antipaywall, read articles like a normal person
