@@ -7,6 +7,12 @@
   > Extremely fast way to search entire drives in seconds (instead of searching with file explorer like a FREAK)
 - [CompactGUI](https://github.com/IridiumIO/CompactGUI)
   > Compress folders with games inside and still be able to play them at full performance
+- [Link Lock](https://jstrieb.github.io/link-lock/create/)
+  > Make passwords for links :3
+- [BCUninstaller](https://www.bcuninstaller.com/)
+  > A way better uninstaller than the stock windows one
+- [AtlasOS](https://atlasos.net/)
+  > Apparently really good debloated windows installation (might need a windows iso that you can get from [here](https://bobpony.com/downloads/)
 
 ## Filters and Userscripts
 [uBlock Origin](https://ublockorigin.com/) and [Tampermonkey](https://www.tampermonkey.net/)
